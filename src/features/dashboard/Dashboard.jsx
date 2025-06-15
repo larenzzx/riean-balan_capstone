@@ -164,7 +164,7 @@ export const Dashboard = () => {
               <div className="relative">
                 <button className="flex items-center space-x-2 p-2 rounded-lg hover:bg-gray-100">
                   <div className="w-8 h-8 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full flex items-center justify-center">
-                    <span className="text-white text-sm font-medium">JB</span>
+                    <span className="text-white text-sm font-medium">FK./.</span>
                   </div>
                   <ChevronDown className="w-4 h-4 text-gray-400 hidden sm:block" />
                 </button>
